@@ -1,0 +1,7 @@
+# Vue脚手架搭建(nodejs)
+
+1. Win + R npm install -g @vue/cli （全局安装）
+2. npm config set registry https://registry.npm.taobao.org （镜像文件）
+3. vue create 文件名 （创建文件）
+4. npm run serve （启动项目）
+
